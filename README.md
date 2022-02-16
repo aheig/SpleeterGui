@@ -42,6 +42,6 @@ https://www.youtube.com/watch?v=3X5nfc2d1Rw
 https://www.youtube.com/watch?v=9KkWJHC2bz0  
 https://www.youtube.com/watch?v=Mygm1sFlQXc  
 
-The project contains the C# source code for the Graphical User Interface. It also contains Python3.7 and the Spleeter project.  
+The project contains the C# source code for the Graphical User Interface. It also contains Python3.7 and the Spleeter project.   
 
 Feel free to inspect the source code and build for yourself. you can also install your own python/tensorflow/ffmpeg/spleeter.
