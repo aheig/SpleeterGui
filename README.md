@@ -29,8 +29,7 @@ Defender 定义版本 1.319.2309.0 未发现威胁
 更多细节可以在这里找到 https://github.com/boy1dr/SpleeterGui/issues/36
 
 
-|日期 |版本 |笔记 |
-
+| Date | Version | Notes |
 | ----: |:-------:| ----- |
 
 | 2020 年 7 月 31 日 | 2.8 |将项目升级到 64 位。 |
