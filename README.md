@@ -17,7 +17,7 @@ Spleeter 的 Windows 桌面前端 - AI 源分离
 
 这个项目是 Spleeter 的一个简单的 C# 桌面前端。
 
-请考虑捐赠并帮助支付托管和开发费用  paypal.me/makenitso
+请考虑捐赠并帮助支付托管和开发费用 https://paypal.me/makenitso
 
 
 ## 版本历史
